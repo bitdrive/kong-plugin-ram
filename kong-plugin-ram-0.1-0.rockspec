@@ -5,7 +5,7 @@ supported_platforms = {"linux", "macosx"}
 local pluginName = package:match("^kong%-plugin%-(.+)$")
 
 source = {
-  url = "git://github.com/bitdrive/kong-ram",
+  url = "git://github.com/bitdrive/kong-plugin-ram",
   tag = "0.1.0"
 }
 
