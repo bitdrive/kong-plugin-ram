@@ -1,7 +1,7 @@
+[![][kong-logo]][kong-url]
+
 # kong-plugin-ram
 ## Resource Access Management on top of Kong
-
-[![][kong-logo]][kong-url]
 
 
 安装resty(/usr/bin/resty)
